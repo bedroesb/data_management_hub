@@ -11,7 +11,7 @@ permalink: credit.html
 
 - [KUleuven rdm](https://www.kuleuven.be/rdm)
 
-- [uu.nl research-data-management](https://www.uu.nl/en/research/-research-data-management/guides)
+- [uu.nl research-data-management](https://www.uu.nl/en/research/dasresearch-data-management/guides)
 
 - [libguides.library.usyd.edu.au datapublication](https://libguides.library.usyd.edu.au/-datapublication/access)
 
